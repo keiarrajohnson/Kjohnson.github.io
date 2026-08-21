@@ -4,7 +4,7 @@ title: Keiarra Johnson | Professional Portfolio
 # Edit next line, replacing 'techfolios' with your github username
 url: "https://keiarrajohnson.github.io"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: "keiarrajohnson.github.io"
+baseurl: ""
 
 # OPTIONAL CHANGES
 ## Specify the theme using any of the css files in css/techfolio-theme
